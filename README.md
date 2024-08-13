@@ -2,5 +2,6 @@
 
 Based on Terminal-Maker (main repo)
 
-To use - download and open in broswer `index.html`
+To use - download and open in broswer `RU.html` or `EN.html` (Based on your language)
+
 To edit - use Twine and import project
