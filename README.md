@@ -1,6 +1,6 @@
 # Y-14 Combo Terminal
 
-Based on Terminal-Maker ([GitHub - gparali/Terminal-Maker](https://github.com/gparali/Terminal-Maker))
+Based on ([Terminal-Maker by gparali](https://github.com/gparali/Terminal-Maker))
 
 To use - download and open in broswer `RU.html` or `EN.html` (Based on your language)
 
